@@ -1,0 +1,62 @@
+body 
+     .belanosima-regular {
+        font-family: "Belanosima", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
+      .belanosima-semibold {
+        font-family: "Belanosima", sans-serif;
+        font-weight: 600;
+        font-style: normal;
+      }
+      
+      .belanosima-bold {
+        font-family: "Belanosima", sans-serif;
+        font-weight: 700;
+        font-style: normal;
+      }
+                 
+
+header {
+    background-color: #71c9f1;
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    text-align: center;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+nav ul li a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+.hero {
+    background-color: #71c9f1;
+    padding: 100px 20px;
+    text-align: center;
+}
+.hero h1 {
+    margin: 0;
+}
+.hero button {
+    padding: 10px 20px;
+    font-size: 18px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+main {
+    padding: 20px;
+}
+footer {
+    background-color: #71c9f1;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 20px;
+}
